@@ -1,3 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ControladorPersonaje : MonoBehaviour
+{
+
 public ControlNormal controlNormal;
 
 public GameObject disparo;
